@@ -15,6 +15,4 @@
 </body>
 </html>
 ~~~
-<img align="right" width"400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<img align="right" width="400" src="insert previous copied link">
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
