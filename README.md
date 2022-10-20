@@ -15,4 +15,4 @@
 </body>
 </html>
 ~~~
-<ing src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> </ing>
+<ing src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
