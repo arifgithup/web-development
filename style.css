@@ -1,203 +1,43 @@
-/* 
-Theme name:theme text
-Author: arif gazi
-Version: 1.1.1.1
-Description:this is my fast php
-
-*/
-
 *{
-    margin: 0 auto;
-    padding: 0px;
-    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 body{
-    background: url(./asetess/image/bg/bg_main.gif) center center;
+    background: url(./assest/image/bg_main.gif) repeat-y top center ;
 }
 .cont{
     width: 996px;
+    margin-left: 185px;
 }
-.hader{
-    background: rgb(107, 28, 119);
+.hadetop{
+    background-color: blueviolet;
     color: white;
-    height: 30px;
-    border-bottom: 1px solid rgb(236, 0, 0);
-}
-.hader p{
+  
     font-size: 12px;
-    padding-top: 5px;
+    border-bottom: 1px solid red;
 }
-.hadre2{
-    text-align: center;
-    justify-content: end;
+.textright{
+    border-left: 1px solid gray;
 }
-.hadre2 a{
-    text-decoration: none;
-    color: white;
-    border-left: 1px solid rgb(255, 250, 250);
-    padding-left: 5px;
-}
-.logo{
-    padding: 10px;
-}
-.serch{
-    padding: 30px;
-}
-.serch input{
-    width: 250px;
-}
-.serch button{
-    border-radius: 5px;
-}
-.img-laft{
-    margin-top: 20px;
-    border-right:1px solid gray ;
-}
-.img-right{
-    padding-top: 20px;
-    
-}
-/* hader part end */
-.manu{
-    background-color: rgba(186, 181, 172, 0.363);
-    height: 30px;
-}
-.manu ul li a{
-    text-decoration: none;
-    padding-right: 5px;
-    color: #000;
-    border-right: 1px solid rgb(158, 157, 157);
-    line-height: 30px;
-    font-size: 14px;
-}
-/* manu end */
-.hero img{
-    width: 100%;
-    border: 3px solid red;
-    padding: 10px;
-    margin-top: 10px;
-    
-}
-.slaider{
-    margin-top: 10px;
-}
-.tab-pane a{
-    text-decoration: none;
-    color:green;
-
-}
-.listt{
-    width: 400px;
-    margin: 0;
-    height: 300px;
-}
-
-.listt h3{
-    font-weight: bold;
-    font-size: 20px;
-   
-}
-.listt a{
-    text-decoration: none;
-    color: green;
-    border-bottom: 1px solid green;
-    line-height: 20px;
-    font-size: 12px;
-    line-height: 10px;
-   
-}
-.but{
-    text-align: center;
-    margin-top: 20px;
-}
-.col-lg-4 img{
-    padding: 3px;
-}
-.footer-top{
-   display: flex;
-   align-items: center;
-   justify-content: center;
-}
-/*  */
-.mujib p{
-    background-color: rgb(25, 180, 25);
-    color: white;
-    height: 35px;
-    line-height: 35px;
-    margin-top: 10px;
-    margin-bottom: -0px;
-}
-.mask img{
-    width: 100%;
-    height: 200px;
-}
-.mask p{
-    background-color: rgb(25, 180, 25);
-    color: white;
-    height: 35px;
-    line-height: 35px;
-    margin-top: 10px;
-    margin-bottom: -0px;
-}
-.dangu img{
-    width: 100%;
-    height: 200px;
-}
-.dangu p{
-    padding-top: 10px;
-    color: blueviolet;
-}
-.digital p{
-    font-size: 14px;
-    color: blueviolet;
-    padding-top: 10px;
-}
-.rupmoy p{
-    font-size: 14px;
-    color: blueviolet;
-    padding-top: 10px;
-}
-/*  */
-
-.footer-manu ul li a{
-    font-size: 12px;
+.manu a{
+    font-size: 13px;
     color: black;
-    text-decoration: none;
+    background: rgb(195, 194, 194);
+    border-right: 1px solid gray;
 }
-.footer-manu p{
-    font-size: 11px;
-    padding-left: 10px;
+.manu a:hover{
+    font-size: 13px;
+    color: white;
+    background: black;
+
 }
-.footer-right1 p{
-    font-size: 11px;
-    padding-top: 5px;
+.baner1{
+    border: 1px solid red;
 }
-.footer-right2 ul li a{
-    font-size: 11px;
-    text-decoration: none;
-    color: #000;
+.list {
+margin-top: 20px;
 }
-.footer-butem p{
-    font-size: 10px;
-    margin-top: 20px;
+.sid{
+    padding-top: 10px;
 }
-.footer-butem1 img{
-    display: flex;
-    justify-content: end;
-}
-.sidbar img{
-    width: 100%;
-    
-}
-.sidbar-pra{
-    margin-top: 30px;
-    color: rgb(0, 67, 168);
-    font-size: 18px;
-}
-.select1{
-    width: 200px;
-    height: 30px;
-}
-.footer-butem1 img{
-    width: 200px;
-}
+
